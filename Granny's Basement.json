@@ -16,11 +16,11 @@
    "ccc":{
       "admin":"",
       "ambassador":"",
-      "host":"#39c9f6",
-      "cohost":"#39c9f6",
-      "manager":"#E15",
-      "bouncer":"#FFB042",
-      "rdj":"#F95",
+      "host":"#F9223C",
+      "cohost":"#F9223C",
+      "manager":"#E2142C",
+      "bouncer":"#990314",
+      "rdj":"#5E0F18",
       "subscriber":"#919191",
       "silversubscriber":"#C1C100"
    },
