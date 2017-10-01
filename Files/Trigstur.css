@@ -1,0 +1,51 @@
+/* Trigstur */
+[data-cid^="5712221-"] .msg .from .icon-chat-subscriber,
+#user-lists .list.room .id-5712221 .icon-chat-subscriber {
+    background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Host%20or%20CoHost%20%3D%20Subscriber.png) !important;
+}
+
+[data-cid^="5712221-"]#chat-messages .id-5712221 .icon-chat-promoter .from.plot.has-staff.has-sub .icon.icon-chat-plot, #chat-messages .from.promoter.has-staff.has-sub .icon.icon-chat-promoter, #chat-messages .from.sitemod.has-staff.has-sub .icon.icon-chat-sitemod {
+       background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Host%20or%20CoHost%20%3D%20Promoter.png) !important;
+}
+[data-cid^="5712221-"] .id-5712221 .from.promote,
+#user-lists .list.room .id-5712221 .icon-chat-subscriber {
+    background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Host%20or%20CoHost%20%3D%20Subscriber.png) !important;
+}
+ #user-rollover.is-promoter.info .role span {
+    color: #F9223C;
+    
+}
+[data-cid^="5712221-"] #chat .from.promoter .id-5712221 .un {
+    color: #f9223c;
+}
+lists .list.room .user i {
+    background-position: -103px -679px;
+    width: 15px;
+    height: 15px;
+    background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Host%20or%20CoHost%20%3D%20Promoter.png) !important;
+}
+.icon-chat-promoter .id-5712221{
+    background-position: -103px -679px;
+    width: 15px;
+    height: 15px;
+    background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Host%20or%20CoHost%20%3D%20Promoter.png) !important;
+}
+#user-rollover.id-5712221 .info .role i {
+    position: relative;
+    float: left;
+    margin-top: 2px;
+           background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Host%20or%20CoHost%20%3D%20Promoter.png) !important;
+}
+#user-rollover.id-5712221 .level:before {
+    position: absolute;
+    background-image: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Host.png);
+    background-repeat: no-repeat;
+    content: "Host";
+    display: inline-block;
+    color: #dd2d32!important;
+    padding: 0px 2px 1px 18px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin-left: 104px;
+    background-position: 1px;
+}
