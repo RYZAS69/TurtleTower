@@ -1,16 +1,39 @@
 /* Trigstur */
+
+/* Subscriber */
+#user-rollover .status span .user.id-5712221 > .meta.subscriber  {
+    color: red;
+}
+#user-rollover.id-5712221 .meta.subscriber .status span{
+color: #f9223c;
+}
+ #user-rollover.id-5712221 .meta.subscriber .status i {
+     border: none;
+    border-radius: 0;
+    background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Host%20or%20CoHost%20%3D%20Subscriber.png)   !important;
+}
 [data-cid^="5712221-"] .msg .from .icon-chat-subscriber,
 #user-lists .list.room .id-5712221 .icon-chat-subscriber {
     background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Host%20or%20CoHost%20%3D%20Subscriber.png) !important;
+}
+[data-cid^="5712221-"] .id-5712221  .icon-chat-promoter,
+#user-lists .list.room .id-5712221 .icon-chat-subscriber {
+    background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Host%20or%20CoHost%20%3D%20Subscriber.png) !important;
+}
+[data-cid^="5712221-"] .id-5712221  .icon-chat-promoter,
+#user-lists .list.room .id-5712221 .icon-chat-subscriber {
+    background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Host%20or%20CoHost%20%3D%20Subscriber.png) !important;
+}
+
+/* Promoter */
+#user-lists .list .user.id-5712221 > .icon-chat-promoter {
+ background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Host%20or%20CoHost%20%3D%20Promoter.png)
 }
 
 [data-cid^="5712221-"]#chat-messages .id-5712221 .icon-chat-promoter .from.plot.has-staff.has-sub .icon.icon-chat-plot, #chat-messages .from.promoter.has-staff.has-sub .icon.icon-chat-promoter, #chat-messages .from.sitemod.has-staff.has-sub .icon.icon-chat-sitemod {
        background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Host%20or%20CoHost%20%3D%20Promoter.png) !important;
 }
-[data-cid^="5712221-"] .id-5712221 .from.promote,
-#user-lists .list.room .id-5712221 .icon-chat-subscriber {
-    background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Host%20or%20CoHost%20%3D%20Subscriber.png) !important;
-}
+
  #user-rollover.is-promoter.info .role span {
     color: #F9223C;
     
@@ -36,6 +59,7 @@ lists .list.room .user i {
     margin-top: 2px;
            background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Host%20or%20CoHost%20%3D%20Promoter.png) !important;
 }
+/* Host */
 #user-rollover.id-5712221 .level:before {
     position: absolute;
     background-image: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Host.png);
