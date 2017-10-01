@@ -2,7 +2,7 @@
    "room":"TurtleTower",
    "author":"Trigstur",
    "icon":"",
-   "css":"",
+   "css":"https://rawgit.com/Trigstur/TurtleTower/master/Files/Granny's%20Basement.css",
    "rules":{
       "allowAutorespond":false,
       "allowAutowoot":true,
