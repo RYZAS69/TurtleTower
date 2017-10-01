@@ -1,0 +1,39 @@
+/* Host/Co Host */
+#user-lists .group.host {
+    -webkit-box-shadow: -1px 3px 130px -10px rgba(249, 34, 59, 1);
+    -moz-box-shadow: -1px 3px 130px -10px rgba(249, 34, 59, 1);
+    box-shadow: -1px 3px 130px -10px rgba(249, 34, 59, 1);
+    color: #5BF;
+    background: linear-gradient(to right, #560101, #F9223C) !important;
+    top: 1px;
+}
+#user-lists .list.staff .group.host span {
+    position: absolute;
+    top: 6px;
+    left: 45px;
+    font-size: 16px;
+    color: #ff5a5a;
+}
+#user-lists .list.staff .group i {
+    top: 9px;
+    left: 16px;
+    background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/CoHost.png);
+}
+.icon-chat-cohost {
+    background-position: -35px -350px;
+    width: 15px;
+    height: 15px;
+    background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/CoHost.png)!important;
+}
+.icon-chat-host {
+    background-position: -35px -350px;
+    width: 15px;
+    height: 15px;
+    background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Host.png);
+}
+icon-chat-host {
+    background-position: -35px -350px;
+    width: 15px;
+    height: 15px;
+    background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Host.png);
+}
