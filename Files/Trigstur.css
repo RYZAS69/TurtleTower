@@ -73,3 +73,43 @@ lists .list.room .user i {
     margin-left: 104px;
     background-position: 1px;
 }
+
+/* Chat Moderation */
+
+#chat .moderation .badge-box {
+    background: #181a1d;
+}
+
+/* Chat */
+#chat .msg {
+    position: relative;
+    padding: 5px 8px 6px 46px;
+}
+#chat .moderation {
+    color: #ff4646;
+    background: #250909;
+}
+#chat .log .msg, #chat .moderation .msg, #chat .promo .msg, #chat .user-action .msg, #chat .welcome .msg {
+    padding: 5px 8px 6px 10px;
+    background: #381111;
+}
+#chat-messages {
+    position: absolute;
+    top: 47px;
+    left: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    width: 100%;
+    border-bottom: #1c1f25 1px solid;
+    color: #eee;
+    font-size: 12px;
+    font-family: Roboto,sans-serif;
+}
+
+/* Staff icon button */
+.icon-staff {
+    background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Red%20Staff%20Button.png) -30px -202px !important;
+}
+#user-lists .header .button.staff.selected {
+    border-bottom: 1px solid red;
+}
