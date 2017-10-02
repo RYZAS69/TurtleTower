@@ -1,2 +1,25 @@
 @import url("https://rawgit.com/Trigstur/TurtleTower/master/Files/Trigstur.css");
 @import url("https://rawgit.com/Trigstur/TurtleTower/master/Files/Host-CoHost.css");
+
+
+/* Moderation from staff */
+#chat .from.staff .un {
+    color: #f9223c;
+}
+#chat .moderation {
+    color: #e72139;
+    background: #360d0d;
+    border: solid 1px #b31b18;
+}
+/* ResidentDj */
+.icon-chat-dj {
+background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Residentdj.png)!important;
+}
+#user-lists .group.dj {
+    -webkit-box-shadow: -1px 3px 130px -10px rgba(249, 34, 59, 1);
+    -moz-box-shadow: -1px 3px 130px -10px rgba(249, 34, 59, 1);
+    box-shadow: -1px 3px 130px -10px #8E04D9;
+    color: #8E04D9;
+    background: linear-gradient(to right, #340050, #8E04D9) !important;
+    top: 1px;
+}
