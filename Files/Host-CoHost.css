@@ -7,6 +7,12 @@
     background: linear-gradient(to right, #560101, #F9223C) !important;
     top: 1px;
 }
+.icon-chat-host {
+    background-position: -35px -350px;
+    width: 15px;
+    height: 15px;
+    background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/CoHost.png)!important;
+}
 #user-lists .list.staff .group.host span {
     position: absolute;
     top: 6px;
