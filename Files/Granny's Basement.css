@@ -2,15 +2,7 @@
 @import url("https://rawgit.com/Trigstur/TurtleTower/master/Files/Host-CoHost.css");
 
 
-/* Moderation from staff */
-#chat .from.staff .un {
-    color: #f9223c;
-}
-#chat .moderation {
-    color: #e72139;
-    background: #360d0d;
-    border: solid 1px #b31b18;
-}
+
 /* ResidentDj */
 .icon-chat-dj {
 background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Residentdj.png)!important;
