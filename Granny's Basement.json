@@ -19,7 +19,7 @@
       "host":"#F9223C",
       "cohost":"#F9223C",
       "manager":"#FFD800",
-      "bouncer":"#E2142C",
+      "bouncer":"##00bc15",
       "rdj":"#8e04d9",
       "subscriber":"#919191",
       "silversubscriber":"#C1C100"
@@ -32,7 +32,7 @@
       "host":"https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Host.png",
       "cohost":"https://raw.githubusercontent.com/Trigstur/TurtleTower/master/CoHost.png",
       "manager":"https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Manager.png",
-      "bouncer":"",
+      "bouncer":"https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Bouncer.png",
       "rdj":"https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Residentdj.png",
       "subscriber":"",
       "silversubscriber":""
