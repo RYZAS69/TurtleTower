@@ -23,3 +23,37 @@ background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Re
     background: linear-gradient(to right, #340050, #8E04D9) !important;
     top: 1px;
 }
+/* Manager */
+.icon-chat-manager {
+background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Manager.png)!important;
+}
+#user-lists .group.manager {
+    -webkit-box-shadow: -1px 3px 130px -10px rgba(249, 34, 59, 1);
+    -moz-box-shadow: -1px 3px 130px -10px rgba(249, 34, 59, 1);
+    box-shadow: -1px 3px 130px -10px #FFD800;
+    color: #FFD800;
+    background: linear-gradient(to right, #605412, #FFD800) !important;
+    top: 1px;
+}
+/* Bouncer */
+.icon-chat-bouncer {
+background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Bouncer.png)!important;
+}
+#user-lists .group.bouncer {
+    -webkit-box-shadow: -1px 3px 130px -10px rgba(249, 34, 59, 1);
+    -moz-box-shadow: -1px 3px 130px -10px rgba(249, 34, 59, 1);
+    box-shadow: -1px 3px 130px -10px #007F0E;
+    color: #00bc15;
+    background: linear-gradient(to right, #023608, #007F0E) !important;
+    top: 1px;
+}
+
+/* Better Plot */
+/* By wllf */
+.icon-chat-plot {
+    background-position: -120px -679px;
+    width: 15px;
+    height: 15px;
+    background: url(https://i.imgur.com/qDS6Hy0.png)!important;
+    
+}
