@@ -4,14 +4,14 @@
 
 
 /* User List Color */
-#user-lists {
+#user-lists .list.staff .group {
     -webkit-box-shadow: -1px 3px 130px -10px rgba(249, 34, 59, 1);
     -moz-box-shadow: -1px 3px 130px -10px rgba(249, 34, 59, 1);
-    box-shadow: -1px 3px 130px -10px #8E04D9;
-    color: #8E04D9;
-    background: linear-gradient(to right, #340050, #8E04D9) !important;
+    box-shadow: -1px 3px 130px -10px #cd2237;
+    color: #cd2237;
+    background: linear-gradient(to right, #5e0202, #ff0000) !important;
     top: 1px;
 }
-\
+
 
 
