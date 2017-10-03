@@ -31,9 +31,9 @@
       "ambassador":"",
       "host":"https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Host.png",
       "cohost":"https://raw.githubusercontent.com/Trigstur/TurtleTower/master/CoHost.png",
-      "manager":"https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Manager.png",
-      "bouncer":"https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Bouncer.png",
-      "rdj":"https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Residentdj.png",
+      "manager":"https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Files/more/Manager.png",
+      "bouncer":"https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Files/more/Bouncer.png",
+      "rdj":"https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Files/more/Residentdj.png",
       "subscriber":"",
       "silversubscriber":""
    }
