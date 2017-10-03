@@ -25,7 +25,7 @@
       "silversubscriber":"#C1C100"
    },
    "images":{
-      "background":"",
+      "background":"https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Background.png",
       "playback":"",
       "admin":"",
       "ambassador":"",
