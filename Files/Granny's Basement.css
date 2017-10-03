@@ -3,16 +3,6 @@
 
 
 
-/* User List Color */
-#user-lists .list.staff .group {
-    -webkit-box-shadow: -1px 3px 130px -10px rgba(249, 34, 59, 1);
-    -moz-box-shadow: -1px 3px 130px -10px rgba(249, 34, 59, 1);
-    box-shadow: -1px 3px 130px -10px #cd2237;
-    color: #cd2237;
-    background: linear-gradient(to right, #5e0202, #ff0000) !important;
-    top: 1px;
-}
-
 /* Profile/shop etc */
 #user-menu .avatar {
     position: relative;
@@ -27,12 +17,58 @@
     background: -ms-linear-gradient(top,#535d80 0,#32324d 56%,#1a1a1a 73%,#73716d 100%);
     background: linear-gradient(to bottom,#560e16 0,#281414 56%,#500e15 73%,#78080e 100%);
 }
+#footer-user .info .points i {
+        background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Files/more/money.png);
+    background-position: -2px -1px;
+    background-size: 22px;
+}
+#footer-user .info .points i {
+    background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Files/more/money.png);
+    background-position: 1px 0px;
+    background-size: 28px;
+}
+.user-content .grid .cell {
+    position: relative;
+    float: left;
+    overflow: hidden;
+    margin: 0 15px 15px 0;
+    width: 185px;
+    height: 205px;
+    background: #af1f31;
+    text-align: center;
+    cursor: pointer;
+}
+#footer-user .info .bar .progress {
+    position: absolute;
+    top: 0;
+    left: 0;
+    float: none;
+    width: 0;
+    height: 100%;
+    background: #ca0610;
+}
 #user-view .menu-points .points .icon {
     position: relative;
     top: 3px;
     float: right;
+    padding-right: 0px;
     margin-right: 2px;
-    background: url(link);
+    background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Files/more/money.png);
+    background-position: -2px -1px;
+    background-size: 32px;
+}
+.experience .xp .bar .progress {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background: #c43c2d;
+}
+.user-content.profile .points i {
+    background: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Files/more/money.png);
+        background-position: -2px -1px;
+    background-size: 45px;
 }
 #user-menu .item {
     position: relative;
@@ -183,6 +219,19 @@
 }
 #footer-user .buttons .button:hover {
     background: #b72134;
+}
+#footer-user .back, #footer-user .signup {
+    position: absolute;
+    z-index: 7;
+    display: none;
+    width: 100%;
+    height: 100%;
+    background: #73100f;
+    -webkit-box-shadow: inset 0 2px 0 -1px #0a0a0a;
+    -moz-box-shadow: inset 0 2px 0 -1px #0a0a0a;
+    box-shadow: inset 0 2px 0 -1px #0a0a0a;
+    text-align: center;
+    cursor: pointer;
 }
 #footer-user .buttons .button.store:hover {
     background: #00b5e6;
@@ -528,5 +577,3 @@ background-image: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/mas
     width: 50%;
     background: rgba(0, 0, 0, 0.73);
 }
-
-
