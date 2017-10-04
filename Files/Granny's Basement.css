@@ -2,7 +2,18 @@
 @import url("https://rawgit.com/Trigstur/TurtleTower/master/Files/Host-CoHost.css");
 @import url("https://rawgit.com/Trigstur/TurtleTower/master/Files/CustomRanks.css");
 
-
+#dialog-container {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 999999;
+    display: none;
+    background: rgba(49, 12, 29, 0.68);
+    text-align: center;
+    white-space: nowrap;
+}
 /* Anti playlist votes */
 #user-lists .list.room .user .icon-grab {
     top: -1px;
