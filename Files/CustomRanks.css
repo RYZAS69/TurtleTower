@@ -11,17 +11,5 @@
 /* ResidentDJ > Promoter */
 /* ResidentDJ > Plot */
 
-/* 17379609 > xUnique1k */
-#user-rollover.id-17379609 .level:before {
-    position: absolute;
-    background-image: url(https://raw.githubusercontent.com/Trigstur/TurtleTower/master/Files/more/Residentdj.png);
-    background-repeat: no-repeat;
-    content: "Residentdj";
-    display: inline-block;
-    color: #dd2d32!important;
-    padding: 0px 2px 1px 18px;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    margin-left: 74px;
-    background-position: 1px;
-}
+
+
